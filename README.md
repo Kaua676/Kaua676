@@ -23,10 +23,9 @@
 <br>
 
 
-### Lembrando que tenho meu [portifólio]([www.kadom.com.br](https://kadom.com.br/))! Entra lá
+### Lembrando que tenho meu [portifólio]([www.kadom.com.br](https://kadom.com.br/))! Da uma passadinha lá 😁
 
 <div align="center">
-  [![Texto Alternativo](Kadom.png)](https://kadom.com.br/)
   <img height="200" src="Kadom.png"/>
 </div>
 

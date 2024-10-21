@@ -21,14 +21,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Kaua676/count.svg?"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/Kaua676/Kaua676/output/snake.svg" alt="Snake animation" />
 
-###
+### Lembrando que tenho meu [portifólio](www.kadom.com.br)! Entra lá
 
 <div align="center">
-  <img height="200" src="Imagens git\Kadom.png"  />
+  <img height="200" src="/Imagens git/Kadom.png"/>
 </div>
 
 ###

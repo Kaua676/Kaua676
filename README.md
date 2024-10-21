@@ -3,7 +3,7 @@
 - 💬 Tenho 20 anos, faço faculdade de Analise e Desenvolvimento de Sistemas na Insted;
 - 😄 Minhas principais habilidades é com desenvolvimento Front-End, mas estou me inserindo na area de automações, automatizando processos com Python;
 - 🔭 Atualmente trabalho na Digix como Jovem Aprendiz e no Grupo Platinão como Estagiário...
-- [EMOJICODE] 🌱 Atualmente estou estudando uma carreira em UX/UI...
+- 🌱 Atualmente estou estudando uma carreira em UX/UI...
 
 ##Principais Tecnologias
 
@@ -29,7 +29,7 @@
 ### Lembrando que tenho meu [portifólio](www.kadom.com.br)! Entra lá
 
 <div align="center">
-  <img height="200" src="/Imagens git/Kadom.png"/>
+  <img height="200" src="Kadom.png"/>
 </div>
 
 ###

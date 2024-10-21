@@ -20,12 +20,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
+<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/Kaua676/count.svg?"  />
 </div>
 
-<br>
+
 ### Lembrando que tenho meu [portifólio](www.kadom.com.br)! Entra lá
 
 <div align="center">

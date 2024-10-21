@@ -1,4 +1,5 @@
-# Olá, meu nome é Kauã Vicente Domingos👋
+# E aí, tudo bem?
+## Meu nome é Kauã Vicente Domingos👋
 
 - 💬 Tenho 20 anos, faço faculdade de Analise e Desenvolvimento de Sistemas na Insted;
 - 😄 Minhas principais habilidades é com desenvolvimento Front-End, mas estou me inserindo na area de automações, automatizando processos com Python;

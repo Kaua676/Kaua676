@@ -23,10 +23,12 @@
 <br>
 
 
-### Lembrando que tenho meu [portifólio]([www.kadom.com.br](https://kadom.com.br/))! Da uma passadinha lá 😁
+### Lembrando que tenho meu portifólio! Da uma passadinha lá 😁
 
 <div align="center">
+  <a href="https://kadom.com.br/">
   <img height="200" src="Kadom.png"/>
+  </a>
 </div>
 
 ###

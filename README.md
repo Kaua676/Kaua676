@@ -6,7 +6,7 @@
 - 🌱 Atualmente estou estudando uma carreira em UX/UI...
 
 <div align="center">
-    ### Principais Tecnologias
+    Principais Tecnologias
 </div>
 
 
@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-      ### Lembrando que tenho meu portifólio! Da uma passadinha lá 😁
+      Lembrando que tenho meu portifólio! Da uma passadinha lá 😁
 </div>
 
 

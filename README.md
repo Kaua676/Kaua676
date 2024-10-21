@@ -5,7 +5,7 @@
 - 🔭 Atualmente trabalho na Digix como Jovem Aprendiz e no Grupo Platinão como Estagiário...
 - 🌱 Atualmente estou estudando uma carreira em UX/UI...
 
-##Principais Tecnologias
+### Principais Tecnologias
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />

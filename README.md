@@ -30,14 +30,8 @@
 
 <div align="center">
 <h2>Lembrando que tenho meu portifólio! Da uma passadinha lá 😁</h2>
-</div>
-
-
-<div align="center">
   <a href="https://kadom.com.br/">
   <img height="200" src="Kadom.png"/>
   </a>
 </div>
-
-###
 

@@ -25,7 +25,7 @@
   <img src="https://profile-counter.glitch.me/Kaua676/count.svg?"  />
 </div>
 
-
+<br>
 ### Lembrando que tenho meu [portifólio](www.kadom.com.br)! Entra lá
 
 <div align="center">

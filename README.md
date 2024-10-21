@@ -5,9 +5,10 @@
 - 🔭 Atualmente trabalho na Digix como Jovem Aprendiz e no Grupo Platinão como Estagiário...
 - 🌱 Atualmente estou estudando uma carreira em UX/UI...
 
-### Principais Tecnologias
+
 
 <div align="center">
+  ### Principais Tecnologias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -23,9 +24,10 @@
 <br>
 
 
-### Lembrando que tenho meu portifólio! Da uma passadinha lá 😁
+
 
 <div align="center">
+  ### Lembrando que tenho meu portifólio! Da uma passadinha lá 😁
   <a href="https://kadom.com.br/">
   <img height="200" src="Kadom.png"/>
   </a>

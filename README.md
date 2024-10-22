@@ -23,7 +23,7 @@ Aprimoramento de UX/UI para desenvolvimento web
 - Primeiro contato com servidores: Aprender a configurar uma VM na Hetzner foi uma das minhas conquistas recentes.
 - Erro favorito: "404 Not Found" – Quando você enlouquece porque o arquivo não carrega e percebe que errou uma letra no caminho.😅
 
-📫 Como entrar em contato
+## 📫 Como entrar em contato
 - E-mail: kadom.dev@outlook.com
 - LinkedIn: www.linkedin.com/in/kauavic676
 - Portfólio: só clicar na imagem!😉
@@ -35,7 +35,6 @@ Aprimoramento de UX/UI para desenvolvimento web
 
 
 <div align="center">
-  <h1>Principais Tecnologias</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />

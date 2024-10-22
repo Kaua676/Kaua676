@@ -19,7 +19,7 @@ Aprimoramento de UX/UI para desenvolvimento web
 - Gosto de resolver quebra-cabeças: Automação é como resolver um quebra-cabeça real, e eu adoro isso.
 - Fascinado por produtividade: Qualquer dica ou ferramenta que economize tempo sempre chama minha atenção.
 - Autodidata: Tenho preferência por aprender sozinho com tutoriais e documentações.
-- Apreciador de música: Gosto de trabalhar ouvindo música, principalmente playlists instrumentais e lo-fi.
+- Apreciador de música: Gosto de trabalhar ouvindo música ou podcast.
 - Primeiro contato com servidores: Aprender a configurar uma VM na Hetzner foi uma das minhas conquistas recentes.
 - Erro favorito: "404 Not Found" – Quando você enlouquece porque o arquivo não carrega e percebe que errou uma letra no caminho.😅
 
